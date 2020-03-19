@@ -1,0 +1,24 @@
+{
+  "name": "guten",
+  "version": "1.0.0",
+  "description": "A WebGL utility library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/toobox/guten.git"
+  },
+  "keywords": [
+    "print",
+    "press",
+    "webgl"
+  ],
+  "author": "Truman Purnell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/toobox/guten/issues"
+  },
+  "homepage": "https://github.com/toobox/guten#readme"
+}
